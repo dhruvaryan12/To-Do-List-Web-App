@@ -38,15 +38,7 @@ A simple and interactive to-do list application built using **HTML**, **CSS**, a
 - Class Toggling
 - Vanilla JS Fundamentals
 - Clean UI Design with CSS
-
-## 📌 Internship Task Link
-
-[Click to view Task Instructions (PDF)](task.pdf)
-
-## ✅ Submission
-
-Submit your GitHub repo link via this [Google Form](https://forms.gle/8Gm83s53KbyXs3Ne9).
-
+  
 ---
 
 ### 👨‍💻 Author
